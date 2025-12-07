@@ -1,1 +1,1 @@
-# tiket_GDGoC
+# GDGoC Back-end Study Group
